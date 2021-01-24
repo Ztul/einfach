@@ -1,6 +1,2 @@
-print("soso")
-
-a=5
-b=5
-
-print(a+b)
+for i in range(0,9):
+    print(i)
